@@ -1,0 +1,189 @@
+{"_id":{"$oid":"5abf066db055ba62d0b7caa9"},"countryID":"AF","country":"Afghanistan","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caaa"},"countryID":"AL","country":"Albania","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caab"},"countryID":"DZ","country":"Algeria","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caac"},"countryID":"AD","country":"Andorra","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caad"},"countryID":"AO","country":"Angola","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caae"},"countryID":"AI","country":"Anguilla","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caaf"},"countryID":"AR","country":"Argentina","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab0"},"countryID":"AM","country":"Armenia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab1"},"countryID":"AW","country":"Aruba","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab2"},"countryID":"AU","country":"Australia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab3"},"countryID":"AT","country":"Austria","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab4"},"countryID":"AZ","country":"Azerbaijan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab5"},"countryID":"BS","country":"Bahamas","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab6"},"countryID":"BH","country":"Bahrain","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab7"},"countryID":"BD","country":"Bangladesh","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab8"},"countryID":"BB","country":"Barbados","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cab9"},"countryID":"BY","country":"Belarus","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caba"},"countryID":"BE","country":"Belgium","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cabb"},"countryID":"BZ","country":"Belize","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cabc"},"countryID":"BJ","country":"Benin","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cabd"},"countryID":"BM","country":"Bermuda","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cabe"},"countryID":"BT","country":"Bhutan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cabf"},"countryID":"BO","country":"Bolivia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac0"},"countryID":"BA","country":"Bosnia-Herzegovina","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac1"},"countryID":"BW","country":"Botswana","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac2"},"countryID":"BR","country":"Brazil","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac3"},"countryID":"BN","country":"Brunei Darussalam","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac4"},"countryID":"BG","country":"Bulgaria","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac5"},"countryID":"BI","country":"Burundi","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac6"},"countryID":"KH","country":"Cambodia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac7"},"countryID":"CM","country":"Cameroon","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac8"},"countryID":"CA","country":"Canada","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cac9"},"countryID":"CV","country":"Cape Verde","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caca"},"countryID":"KY","country":"Cayman Islands","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cacb"},"countryID":"CF","country":"Central African Republic","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cacc"},"countryID":"TD","country":"Chad","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cacd"},"countryID":"CL","country":"Chile","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cace"},"countryID":"CN","country":"China","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cacf"},"countryID":"CO","country":"Colombia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad0"},"countryID":"KM","country":"Comoros","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad1"},"countryID":"CK","country":"Cook Islands","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad2"},"countryID":"CR","country":"Costa Rica","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad3"},"countryID":"HR","country":"Croatia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad4"},"countryID":"CU","country":"Cuba","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad5"},"countryID":"CY","country":"Cyprus","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad6"},"countryID":"CZ","country":"Czech Republic","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad7"},"countryID":"DK","country":"Denmark","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad8"},"countryID":"DJ","country":"Djibouti","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cad9"},"countryID":"DM","country":"Dominica","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cada"},"countryID":"DO","country":"Dominican Republic","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cadb"},"countryID":"TP","country":"East Timor","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cadc"},"countryID":"EC","country":"Ecuador","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cadd"},"countryID":"EG","country":"Egypt","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cade"},"countryID":"SV","country":"El Salvador","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cadf"},"countryID":"GQ","country":"Equatorial Guinea","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae0"},"countryID":"ER","country":"Eritrea","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae1"},"countryID":"EE","country":"Estonia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae2"},"countryID":"ET","country":"Ethiopia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae3"},"countryID":"FO","country":"Faroe Islands","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae4"},"countryID":"FJ","country":"Fiji","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae5"},"countryID":"FI","country":"Finland","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae6"},"countryID":"FR","country":"France","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae7"},"countryID":"GF","country":"French Guiana","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae8"},"countryID":"PF","country":"French Polynesia","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cae9"},"countryID":"GA","country":"Gabon","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caea"},"countryID":"GM","country":"Gambia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caeb"},"countryID":"GE","country":"Georgia, Republic of","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caec"},"countryID":"DE","country":"Germany","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caed"},"countryID":"GH","country":"Ghana","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caee"},"countryID":"GI","country":"Gibraltar","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caef"},"countryID":"GB","country":"Great Britain","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf0"},"countryID":"GR","country":"Greece","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf1"},"countryID":"GD","country":"Grenada","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf2"},"countryID":"GP","country":"Guadeloupe","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf3"},"countryID":"GT","country":"Guatemala","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf4"},"countryID":"GN","country":"Guinea","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf5"},"countryID":"GW","country":"Guinea-Bissau","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf6"},"countryID":"GY","country":"Guyana","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf7"},"countryID":"HT","country":"Haiti","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf8"},"countryID":"HN","country":"Honduras","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caf9"},"countryID":"HK","country":"Hong Kong","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cafa"},"countryID":"HU","country":"Hungary","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cafb"},"countryID":"IS","country":"Iceland","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cafc"},"countryID":"IN","country":"India","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cafd"},"countryID":"ID","country":"Indonesia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cafe"},"countryID":"IR","country":"Iran","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7caff"},"countryID":"IQ","country":"Iraq","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb00"},"countryID":"IE","country":"Ireland","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb01"},"countryID":"IL","country":"Israel","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb02"},"countryID":"IT","country":"Italy","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb03"},"countryID":"JM","country":"Jamaica","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb04"},"countryID":"JP","country":"Japan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb05"},"countryID":"JO","country":"Jordan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb06"},"countryID":"KZ","country":"Kazakhstan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb07"},"countryID":"KE","country":"Kenya","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb08"},"countryID":"KI","country":"Kiribati","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb09"},"countryID":"KW","country":"Kuwait","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb0a"},"countryID":"KG","country":"Kyrgyzstan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb0b"},"countryID":"LA","country":"Laos","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb0c"},"countryID":"LV","country":"Latvia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb0d"},"countryID":"LB","country":"Lebanon","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb0e"},"countryID":"LS","country":"Lesotho","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb0f"},"countryID":"LR","country":"Liberia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb10"},"countryID":"LI","country":"Liechtenstein","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb11"},"countryID":"LT","country":"Lithuania","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb12"},"countryID":"LU","country":"Luxembourg","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb13"},"countryID":"MO","country":"Macau","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb14"},"countryID":"MK","country":"Macedonia, Republic of","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb15"},"countryID":"MG","country":"Madagascar","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb16"},"countryID":"MW","country":"Malawi","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb17"},"countryID":"MY","country":"Malaysia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb18"},"countryID":"MV","country":"Maldives","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb19"},"countryID":"ML","country":"Mali","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb1a"},"countryID":"MT","country":"Malta","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb1b"},"countryID":"MQ","country":"Martinique","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb1c"},"countryID":"MR","country":"Mauritania","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb1d"},"countryID":"MU","country":"Mauritius","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb1e"},"countryID":"YT","country":"Mayotte","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb1f"},"countryID":"MX","country":"Mexico","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb20"},"countryID":"MD","country":"Moldova","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb21"},"countryID":"MC","country":"Monaco","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb22"},"countryID":"MN","country":"Mongolia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb23"},"countryID":"MA","country":"Morocco","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb24"},"countryID":"MZ","country":"Mozambique","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb25"},"countryID":"NA","country":"Namibia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb26"},"countryID":"NR","country":"Nauru","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb27"},"countryID":"NP","country":"Nepal","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb28"},"countryID":"NL","country":"Netherlands","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb29"},"countryID":"AN","country":"Netherlands Antilles","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb2a"},"countryID":"NC","country":"New Caledonia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb2b"},"countryID":"NZ","country":"New Zealand","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb2c"},"countryID":"NI","country":"Nicaragua","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb2d"},"countryID":"NE","country":"Niger","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb2e"},"countryID":"NG","country":"Nigeria","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb2f"},"countryID":"NO","country":"Norway","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb30"},"countryID":"OM","country":"Oman","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb31"},"countryID":"PK","country":"Pakistan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb32"},"countryID":"PA","country":"Panama","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb33"},"countryID":"PG","country":"Papua New Guinea","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb34"},"countryID":"PY","country":"Paraguay","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb35"},"countryID":"PE","country":"Peru","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb36"},"countryID":"PH","country":"Philippines","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb37"},"countryID":"PL","country":"Poland","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb38"},"countryID":"PT","country":"Portugal","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb39"},"countryID":"QA","country":"Qatar","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb3a"},"countryID":"RO","country":"Romania","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb3b"},"countryID":"RU","country":"Russia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb3c"},"countryID":"RW","country":"Rwanda","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb3d"},"countryID":"SM","country":"San Marino","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb3e"},"countryID":"SA","country":"Saudi Arabia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb3f"},"countryID":"SN","country":"Senegal","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb40"},"countryID":"SC","country":"Seychelles","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb41"},"countryID":"SL","country":"Sierra Leone","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb42"},"countryID":"SG","country":"Singapore","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb43"},"countryID":"SK","country":"Slovak Republic","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb44"},"countryID":"SI","country":"Slovenia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb45"},"countryID":"SB","country":"Solomon Islands","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb46"},"countryID":"SO","country":"Somalia","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb47"},"countryID":"ZA","country":"South Africa","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb48"},"countryID":"ES","country":"Spain","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb49"},"countryID":"LK","country":"Sri Lanka","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb4a"},"countryID":"SD","country":"Sudan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb4b"},"countryID":"SZ","country":"Swaziland","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb4c"},"countryID":"SE","country":"Sweden","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb4d"},"countryID":"CH","country":"Switzerland","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb4e"},"countryID":"SY","country":"Syrian Arab Republic","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb4f"},"countryID":"TW","country":"Taiwan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb50"},"countryID":"TJ","country":"Tajikistan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb51"},"countryID":"TZ","country":"Tanzania","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb52"},"countryID":"TH","country":"Thailand","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb53"},"countryID":"TG","country":"Togo","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb54"},"countryID":"TT","country":"Trinidad and Tobago","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb55"},"countryID":"TN","country":"Tunisia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb56"},"countryID":"TR","country":"Turkey","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb57"},"countryID":"TM","country":"Turkmenistan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb58"},"countryID":"UG","country":"Uganda","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb59"},"countryID":"UA","country":"Ukraine","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb5a"},"countryID":"AE","country":"United Arab Emirates","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb5b"},"countryID":"US","country":"United States","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb5c"},"countryID":"UY","country":"Uruguay","active":"NO"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb5d"},"countryID":"UZ","country":"Uzbekistan","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb5e"},"countryID":"VU","country":"Vanuatu","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb5f"},"countryID":"VA","country":"Vatican City","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb60"},"countryID":"VE","country":"Venezuela","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb61"},"countryID":"VN","country":"Vietnam","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb62"},"countryID":"WS","country":"Western Samoa","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb63"},"countryID":"YE","country":"Yemen","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb64"},"countryID":"ZM","country":"Zambia","active":"YES"}
+{"_id":{"$oid":"5abf066db055ba62d0b7cb65"},"countryID":"ZW","country":"Zimbabwe","active":"YES"}
